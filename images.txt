@@ -1,2 +1,3 @@
 ghcr.io/linkwarden/linkwarden
 corentinth/it-tools
+gitea/gitea
