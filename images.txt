@@ -2,3 +2,5 @@ ghcr.io/linkwarden/linkwarden
 corentinth/it-tools
 gitea/gitea
 portainer/portainer-ce
+ghcr.io/plankanban/planka
+postgres:16-alpine
